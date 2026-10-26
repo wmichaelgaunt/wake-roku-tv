@@ -1,0 +1,11 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Local test logs / machine-specific configuration
+*.log
+*.local.ps1
